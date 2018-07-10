@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is A8A3-1801
+
+ Directory of C:\Users\TP-IT\Desktop\Pr1
+
+07/10/2018  01:23 PM    <DIR>          .
+07/10/2018  01:23 PM    <DIR>          ..
+07/10/2018  01:23 PM                 0 testtext.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  20,114,190,336 bytes free
